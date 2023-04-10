@@ -15,7 +15,6 @@ Un script para obtener items UGC gratis rapidamente
 ## Instalacion
 
 ### Paso 1 - Instalar Python y librerias
-
 Primero necesitas instalar Python, lo puedes hacer [aquí](https://www.python.org/downloads/). 
 
 Después de descargar Python, necesitas instalar la librería de requests. 
@@ -48,12 +47,16 @@ Ahora ve a la carpeta **UGCatcher - Token Fetch** y cargala, luego has click en 
 
 ¡Y listo!
 
-### Paso 4
+### Paso 4 - Obtener los limiteds
 Coloca la id de los limitados **gratis** que quieres obtener el el archivo **limiteds.txt** separados por comas, asi:
 
 12345,67890,82141
 
-### Paso 5
+### Paso 5 - Inicia
 Ejecuta el archivo **main.py** y listo, solo se paciente mientras el bot hace todo su trabajo UwU
 
 Creado por Furrycality, inspirado en J3l sniper
+
+Apoyame dandole una estrella a este proyecto UwU
+
+Dudas o fallos? Contactame en Discord **Furrycality™#1234**
