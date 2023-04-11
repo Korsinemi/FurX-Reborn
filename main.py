@@ -82,7 +82,8 @@ def buy(json, itemid, productid):
 # Get collectible and product id for all the limiteds.
 Thread(target=get_x_token).start()
 
-print("UGCatcher by Furrycality™#1234 - Vr. 2.0\nWeb: https://rblx.furrycality.pw (Soon!)\nDiscord server: https://discord.gg/WDbrnWpjpd")
+print("UGCatcher by Furrycality™#1234 - Vr. 2.0\nWeb: https://rblx.furrycality.pw (Soon!)\nAsistencia: https://discord.gg/WDbrnWpjpd")
+os.system("start \"\" https://discord.gg/WDbrnWpjpd")
 while x_token == "":
     time.sleep(0.01)
 
@@ -122,7 +123,7 @@ while 1:
         time.sleep(cooldown-taken)
 
     os.system("cls")
-    print("UGCatcher by Furrycality™#1234\nWeb: https://rblx.furrycality.pw (Soon!)\nDiscord server: (Soon!)\n\nRealizando tareas solicitadas\n\n"
+    print("UGCatcher by Furrycality™#1234\nWeb: https://rblx.furrycality.pw (Soon!)\nAsistencia: https://discord.gg/WDbrnWpjpd\n\nRealizando tareas solicitadas\n\n"
           "Checkeo completado.\n"
           f"Tiempo tomado: {round(time.perf_counter()-start, 3)}\n"
           f"Tiempo sin delay: {round(cooldown, 3)}")
