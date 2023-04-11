@@ -11,7 +11,6 @@ with open("limiteds.txt", "r") as f:
 with open("cookie.txt", "r") as f:
     cookie = f.read()
 
-
 user_id = r.get("https://users.roblox.com/v1/users/authenticated", cookies={".ROBLOSECURITY": cookie}).json()["id"]
 x_token = ""
 def get_x_token():
@@ -40,7 +39,8 @@ def buy(json, itemid, productid):
         "expectedSellerId": json["creatorTargetId"],
         "expectedSellerType": "User",
         "idempotencyKey": "FurrycalityFetchingService",
-        "collectibleProductId": productid
+        "collectibleProductId": productid,
+        "bypassEnabled": True
     }
 
     while 1:
@@ -82,7 +82,7 @@ def buy(json, itemid, productid):
 # Get collectible and product id for all the limiteds.
 Thread(target=get_x_token).start()
 
-print("UGCatcher by Furrycality™#1234 - Vr. 1.8\nWeb: https://rblx.furrycality.pw (Soon!)\nDiscord server: (Soon!)")
+print("UGCatcher by Furrycality™#1234 - Vr. 2.0\nWeb: https://rblx.furrycality.pw (Soon!)\nDiscord server: https://discord.gg/WDbrnWpjpd")
 while x_token == "":
     time.sleep(0.01)
 
