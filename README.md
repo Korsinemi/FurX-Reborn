@@ -1,6 +1,7 @@
 
 # [UGCatcher]((https://rblx.furrycality.pw))
 Un script para obtener items UGC gratis rapidamente
+> Soporte: https://discord.gg/WDbrnWpjpd
 
 ## Caracteristicas
 
@@ -59,4 +60,4 @@ Creado por Furrycality, inspirado en J3l sniper
 
 Apoyame dandole una estrella a este proyecto UwU
 
-Dudas o fallos? Contactame en Discord **Furrycality™#1234**
+Dudas o fallos? Contactame en Discord **Furrycality™#1234**- https://discord.gg/WDbrnWpjpd
