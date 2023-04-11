@@ -82,7 +82,7 @@ def buy(json, itemid, productid):
 # Get collectible and product id for all the limiteds.
 Thread(target=get_x_token).start()
 
-print("UGCatcher by Furrycality™#1234 - Vr. 2.0\nWeb: https://rblx.furrycality.pw (Soon!)\nAsistencia: https://discord.gg/WDbrnWpjpd")
+print("UGCatcher by Furrycality™#1234 - Vr. 2.1\nWeb: https://rblx.furrycality.pw (Soon!)\nAsistencia: https://discord.gg/WDbrnWpjpd")
 os.system("start \"\" https://discord.gg/WDbrnWpjpd")
 while x_token == "":
     time.sleep(0.01)
