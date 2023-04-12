@@ -2,6 +2,7 @@
 # [UGCatcher]((https://rblx.furrycality.pw))
 Un script para obtener items UGC gratis rapidamente
 > Soporte: https://discord.gg/WDbrnWpjpd
+  - Instrucciones mas detalladas ahi
 
 ## Caracteristicas
 
@@ -31,7 +32,7 @@ python -m pip install requests
 ```
 
 ### Paso 2 - Descargar el script
-Haz clic en "Code" > "Download ZIP" o ve al ultimo [Release](https://github.com/Furrycality/UGCatcher/releases/tag/actual)
+Haz clic en "Code" > "Download ZIP" o ve al ultimo [Release](https://github.com/Furrycality/UGCatcher/releases/tag/2.5.1)
 
 
 Esto descargará el script como un archivo .zip, extrae todos los archivos en la carpeta de tu elección.
