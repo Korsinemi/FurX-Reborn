@@ -87,7 +87,16 @@ def buy(json, itemid, productid):
 # Get collectible and product id for all the limiteds.
 Thread(target=get_x_token).start()
 
-print("UGCatcher by Furrycality™#1234 - Vr. 2.5\nWeb: https://rblx.furrycality.pw (Soon!)\nAsistencia: https://discord.gg/WDbrnWpjpd")
+print("""██╗░░░██╗░██████╗░░█████╗░░█████╗░████████╗░█████╗░██╗░░██╗███████╗██████╗░
+██║░░░██║██╔════╝░██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██║░░██║██╔════╝██╔══██╗
+██║░░░██║██║░░██╗░██║░░╚═╝███████║░░░██║░░░██║░░╚═╝███████║█████╗░░██████╔╝
+██║░░░██║██║░░╚██╗██║░░██╗██╔══██║░░░██║░░░██║░░██╗██╔══██║██╔══╝░░██╔══██╗
+╚██████╔╝╚██████╔╝╚█████╔╝██║░░██║░░░██║░░░╚█████╔╝██║░░██║███████╗██║░░██║
+░╚═════╝░░╚═════╝░░╚════╝░╚═╝░░╚═╝░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝
+█░░ █▀▀ █▀▀ ▄▀█ █▀▀ █▄█
+█▄▄ ██▄ █▄█ █▀█ █▄▄ ░█░ 
+
+Created by Furrycality™#1234 | Soporte: https://discord.gg/WDbrnWpjpd \n\n""")
 # os.system("pip install -update git+https://github.com/Furrycality/UGCatcher.git#egg=UGCatcher")
 # os.system("start \"\" https://discord.gg/WDbrnWpjpd")
 
@@ -135,7 +144,16 @@ while 1:
         time.sleep(cooldown-taken)
 
     os.system("cls")
-    print("UGCatcher by Furrycality™#1234\nWeb: https://rblx.furrycality.pw (Soon!)\nAsistencia: https://discord.gg/WDbrnWpjpd\n\nRealizando tareas solicitadas\n\n"
-          "Checkeo completado.\n"
+    print("""██╗░░░██╗░██████╗░░█████╗░░█████╗░████████╗░█████╗░██╗░░██╗███████╗██████╗░
+██║░░░██║██╔════╝░██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██║░░██║██╔════╝██╔══██╗
+██║░░░██║██║░░██╗░██║░░╚═╝███████║░░░██║░░░██║░░╚═╝███████║█████╗░░██████╔╝
+██║░░░██║██║░░╚██╗██║░░██╗██╔══██║░░░██║░░░██║░░██╗██╔══██║██╔══╝░░██╔══██╗
+╚██████╔╝╚██████╔╝╚█████╔╝██║░░██║░░░██║░░░╚█████╔╝██║░░██║███████╗██║░░██║
+░╚═════╝░░╚═════╝░░╚════╝░╚═╝░░╚═╝░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝
+█░░ █▀▀ █▀▀ ▄▀█ █▀▀ █▄█
+█▄▄ ██▄ █▄█ █▀█ █▄▄ ░█░ 
+
+Created by Furrycality™#1234 | Soporte: https://discord.gg/WDbrnWpjpd \n\n"""
+"Verificando limited...\n"
           f"Tiempo tomado: {round(time.perf_counter()-start, 3)}\n"
           f"Tiempo sin delay: {round(cooldown, 3)}")
