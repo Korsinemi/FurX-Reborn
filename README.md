@@ -2,7 +2,7 @@
 # [UGCatcher]((https://rblx.furrycality.pw))
 Un script para obtener items UGC gratis rapidamente
 > Soporte: https://discord.gg/WDbrnWpjpd
-  - Instrucciones mas detalladas ahi
+  - Instrucciones mas detalladas ahi ademas de guia para ejecutar en android (Gracias a Mairon por la ayuda)
 
 ## Caracteristicas
 
@@ -13,6 +13,7 @@ Un script para obtener items UGC gratis rapidamente
 * Reintenta la compra cuando falla
 * AntiCaidas integrado
 * Velocidad en milisegundos
+* **SOPORTE ANDROID**
 
 ## Instalacion
 
