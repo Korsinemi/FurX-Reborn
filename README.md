@@ -42,9 +42,12 @@ Esto descargará el script como un archivo .zip, extrae todos los archivos en la
 Necesitas poner tu cookie de Roblox en el archivo **cookie.txt**
 > Esto es para poder iniciar sesion en tu cuenta para realizar las compras
 
-Luego, abre Google Chrome y haz clic en el botón de extensiones > administrar extensiones > cargar sin empaquetar
+Instala la extension Cookie-Editor:
+> Chrome: https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm
+> Edge: https://microsoftedge.microsoft.com/addons/detail/cookieeditor/neaplmfkghagebokkhpjpoebhdledlfi
 
-Ahora ve a la carpeta **UGCatcher - Token Fetch** y cargala, luego has click en la extension y da click en el primer boton donde dice **Copiar cookie en el portapapeles**
+Luego abre una pestaña en Roblox y has click en la extension, luego da click en las pestaña **.ROBLOSECURITY** y copia todo lo que esta dentro de el cuadro **Value**
+Ahora abre **cookie.txt** y la pegas ahi
 
 > Este es el .ROBLOSECURITY, no lo compartas con nadie
 
