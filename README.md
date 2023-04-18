@@ -44,6 +44,7 @@ Necesitas poner tu cookie de Roblox en el archivo **cookie.txt**
 
 Instala la extension Cookie-Editor:
 > Chrome: https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm
+
 > Edge: https://microsoftedge.microsoft.com/addons/detail/cookieeditor/neaplmfkghagebokkhpjpoebhdledlfi
 
 Luego abre una pestaña en Roblox y has click en la extension, luego da click en las pestaña **.ROBLOSECURITY** y copia todo lo que esta dentro de el cuadro **Value**
