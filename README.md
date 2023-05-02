@@ -10,6 +10,7 @@ Un script para obtener items UGC gratis rapidamente
 * Busca las 24/7 para ver si está a la venta
 * Fácil de usar
 * Liviano
+* Proxy integrado! <- Nuevo
 * Reintenta la compra cuando falla
 * AntiCaidas integrado
 * Velocidad en milisegundos
@@ -33,13 +34,13 @@ python -m pip install requests
 ```
 
 ### Paso 2 - Descargar el script
-Haz clic en "Code" > "Download ZIP" o ve al ultimo [Release](https://github.com/Furrycality/UGCatcher/releases/tag/2.5.1)
-
+Haz clic en "Code" > "Download ZIP" o ve al ultimo [Release](https://github.com/Furrycality/UGCatcher/releases/tag/3.0)
+> Tambien esta disponible la Legacy: [Ultima estable antigua](https://github.com/Furrycality/UGCatcher/releases/tag/legacy)
 
 Esto descargará el script como un archivo .zip, extrae todos los archivos en la carpeta de tu elección.
 
 ### Paso 3 - Acceso
-Necesitas poner tu cookie de Roblox en el archivo **cookie.txt**
+Necesitas poner tu cookie de Roblox en el archivo **cookie.txt** en la carpeta **data**
 > Esto es para poder iniciar sesion en tu cuenta para realizar las compras
 
 Instala la extension Cookie-Editor:
@@ -55,14 +56,16 @@ Ahora abre **cookie.txt** y la pegas ahi
 ¡Y listo!
 
 ### Paso 4 - Obtener los limiteds
-Coloca la id de los limitados **gratis** que quieres obtener el el archivo **limiteds.txt** separados por comas, asi:
+Coloca la id de los limitados **gratis** que quieres obtener el el archivo **limiteds.txt** en la carpeta **data** separados por lineas, asi:
 
-12345,67890,82141
+12345
+67890
+09129
 
 ### Paso 5 - Inicia
-Ejecuta el archivo **main.py** y listo, solo se paciente mientras el bot hace todo su trabajo UwU
+Ejecuta el archivo **run.bat** y listo, solo se paciente mientras el bot hace todo su trabajo UwU
 
-Creado por Furrycality, inspirado en J3l sniper
+Creado por Furrycality, inspirado en J3l sniper y Xolo Sniper
 
 Apoyame dandole una estrella a este proyecto UwU
 
