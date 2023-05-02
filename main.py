@@ -48,7 +48,7 @@ if os.name == "nt": ctypes.windll.kernel32.SetConsoleTitleW("UGCatcher - by Furr
 class UGCatcher():
     def __init__(self) -> None:
         #Only logs the items buyed by the bot, dont risk
-        self.webhookLogs = webhook
+        #self.webhookLogs = webhook
         self.items = self._setItems()
 
         self.username = str
