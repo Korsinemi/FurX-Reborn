@@ -59,7 +59,9 @@ Ahora abre **cookie.txt** y la pegas ahi
 Coloca la id de los limitados **gratis** que quieres obtener el el archivo **limiteds.txt** en la carpeta **data** separados por lineas, asi:
 
 12345
+
 67890
+
 09129
 
 ### Paso 5 - Inicia
