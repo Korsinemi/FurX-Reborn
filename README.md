@@ -1,4 +1,1 @@
-UGCatcher ha sido cancelado, en su lugar se creo un nuevo sniper en 
-> https://github.com/Furrycality/CalitySniper
-
-> https://discord.gg/sFHPPSe45s
+UGCatcher ha sido cancelado debido a que Roblox agrego captcha, gracias por todo el soporte :3
